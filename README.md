@@ -3,8 +3,7 @@ A pictorial representation demonstrating how Data Structures and Algorithms can 
 
 
 
-![Screenshot 2023-01-07 162427](New Array Generated.png)
-
+<center><img src="New Array Generated.png" align="center" height="350"></center>
 https://medium.com/@bbabina/sorting-visualizer-aeed2276f750
 
 
